@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+gcc -Wall -o koopsh src/main.c
